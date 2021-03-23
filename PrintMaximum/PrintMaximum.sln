@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMaximum", "PrintMaximum\PrintMaximum.csproj", "{4731FE98-55FE-4F3F-9072-043C64ED22F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPrintMax", "UnitTestPrintMax\UnitTestPrintMax.csproj", "{E5871984-8135-4EA1-8F86-CB9BFD7643FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4731FE98-55FE-4F3F-9072-043C64ED22F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4731FE98-55FE-4F3F-9072-043C64ED22F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4731FE98-55FE-4F3F-9072-043C64ED22F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4731FE98-55FE-4F3F-9072-043C64ED22F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5871984-8135-4EA1-8F86-CB9BFD7643FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5871984-8135-4EA1-8F86-CB9BFD7643FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5871984-8135-4EA1-8F86-CB9BFD7643FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5871984-8135-4EA1-8F86-CB9BFD7643FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10B3FAE-8031-4739-8A83-296F490F3B56}
+	EndGlobalSection
+EndGlobal

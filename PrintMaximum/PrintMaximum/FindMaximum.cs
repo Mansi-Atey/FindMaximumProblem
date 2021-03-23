@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MoreThanThreeParameter
+namespace PrintMaximum
 {
-    class FindMaximum<T> where T : IComparable
+   public class FindMaximum<T> where T : IComparable
     {
         public T[] array;
         public FindMaximum(T[] array)
@@ -20,6 +20,10 @@ namespace MoreThanThreeParameter
         {
             T[] sorted = this.Sort();
             return sorted[sorted.Length - 1];
+        }
+        public void PrintMaxValue()
+        {
+            Console.WriteLine(this.FindMaxValue());
         }
     }
 
