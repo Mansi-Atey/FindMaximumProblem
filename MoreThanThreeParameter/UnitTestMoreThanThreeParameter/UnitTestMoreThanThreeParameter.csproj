@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MaximumString\MaximumString.csproj" />
+    <ProjectReference Include="..\MoreThanThreeParameter\MoreThanThreeParameter.csproj" />
   </ItemGroup>
 
 </Project>

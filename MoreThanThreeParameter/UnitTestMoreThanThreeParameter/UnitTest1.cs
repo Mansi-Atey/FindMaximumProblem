@@ -1,6 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
-namespace UnitTestMaximumString
+namespace UnitTestMoreThanThreeParameter
 {
     [TestClass]
     public class UnitTest1
@@ -37,5 +38,17 @@ namespace UnitTestMaximumString
         }
 
     }
+
+    internal class FindMaximum
+    {
+        public FindMaximum()
+        {
+        }
+
+        internal string MaximumStringNumber(string firstValue, string secondValue, string thirdValue)
+        {
+            throw new NotImplementedException();
+        }
     }
+}
 
