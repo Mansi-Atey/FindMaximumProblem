@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumFloat", "MaximumFloat\MaximumFloat.csproj", "{A0A473D5-5D8F-463A-B3DD-2ABA6EDF58D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMaxFloat", "UnitTestMaxFloat\UnitTestMaxFloat.csproj", "{1307A9C2-0654-430B-9674-CE9EF87C49D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A473D5-5D8F-463A-B3DD-2ABA6EDF58D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A473D5-5D8F-463A-B3DD-2ABA6EDF58D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A473D5-5D8F-463A-B3DD-2ABA6EDF58D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A473D5-5D8F-463A-B3DD-2ABA6EDF58D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1307A9C2-0654-430B-9674-CE9EF87C49D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1307A9C2-0654-430B-9674-CE9EF87C49D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1307A9C2-0654-430B-9674-CE9EF87C49D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1307A9C2-0654-430B-9674-CE9EF87C49D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5146011A-456A-4C4F-A25C-6AFB160328D2}
+	EndGlobalSection
+EndGlobal

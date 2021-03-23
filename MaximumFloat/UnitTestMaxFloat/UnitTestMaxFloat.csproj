@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MaximumInteger\MaximumInteger.csproj" />
+    <ProjectReference Include="..\MaximumFloat\MaximumFloat.csproj" />
   </ItemGroup>
 
 </Project>
